@@ -32,7 +32,7 @@ const siteProps = {
 };
 
 const primaryColor = "#4E567E";
-const secondaryColor = "#FFFFFF";
+const secondaryColor = "#000000";
 
 const App = () => {
   return (
